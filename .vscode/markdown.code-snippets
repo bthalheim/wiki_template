@@ -1,0 +1,123 @@
+{
+	"python code block": {
+	    "prefix": "codepy",
+		"body": [
+			"```python",
+			"$0", 
+			"```"
+		],
+	 	"description": "Creates A Python Code Block"
+	},
+
+	"Mermaid Code Block": {
+	    "prefix": "codemm3",
+		"body": [
+			"```mermaid",
+			"graph TD;",
+			"A==>B",
+			"B-->C",
+			"$0", 
+			"```"		],
+	 	"description": "Creates A Python Code Block"
+    },
+    
+    "Mermaid Code Block2": {
+	    "prefix": "codemm2",
+		"body": [
+			"```mermaid",
+			"graph TD;",
+			"A==>B",
+			"B-->C",
+			"$0", 
+			"```"		],
+	 	"description": "Creates A Python Code Block"
+	},
+
+	"Time Table": {
+		"prefix" : "gentimetable",
+		"body" : [
+			
+            "   7:00-7:30: ",
+			"   7:30-8:00: ",
+			"   8:00-8:30: ",
+			"   8:30-9:00: ",
+			"   9:00-9:30: ",
+			"  9:30-10:00: ",
+			" 10:00-10:30: ",
+			" 10:30-11:00: ",
+			" 11:00-11:30: ",
+			" 11:30-12:00: ",
+			" 12:00-12:30: ",
+			" 12:30-13:00: ",
+			" 13:00-13:30: ",
+			" 13:30-14:00: ",
+			" 14:00-14:30: ",
+			" 14:30-15:00: ",
+			" 15:00-15:30: ",
+			" 15:30-16:00: ",
+            " 16:00-16:30: ",
+			" 16:30-17:30: "
+			
+		],
+		"description": "Dispaly Daily Time Table"
+	},
+
+	"Master Index Link": {
+        "prefix" : "masterlink",
+		"body" : [
+		    "[↑ Master Index](../index.md)"		
+		],
+		"description": "Quickly add aa master index backlink"  
+	},
+
+	"Customer Index Link": {
+        "prefix" : "custlink",
+		"body" : [
+		    "[↑ Customer Index](../customer_index.md)"		
+		],
+		"description": "Quickly add a customer index backlink"  
+	},
+
+
+
+    "New Index Page": {
+        "prefix" : "indexpage",
+		"body" : [
+		    "",
+			"New Index Page",
+			"======================================",
+			"",
+			"Blank index Page Template",
+			"", 
+			"Info Sheets",
+			"-------------------------------------",
+			"", 
+			"Articles",
+			"-------------------------------------",
+			"",
+			"Projects",
+			"-------------------------------------"
+
+		],
+		"description": "Quickly add a new index page"  
+	},
+
+	"YAML Front Matter": {
+        "prefix" : "!YAML",
+		"body" : [
+			"---",
+			"Title: Subject - New Document",
+			"Project: KB ",
+			"Tags:",
+			"Author: Benjamin Thalheim",
+			"Version: 0.1",
+			"Last Changed:",
+			"Status: Draft",
+			"slug: subject_new_document",
+			"---"
+		],
+		"description": "Quickly yaml front matter for KB"  
+	},
+
+
+}
