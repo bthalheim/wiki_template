@@ -1,4 +1,4 @@
-[↑ README](readme.md)
+[↑ README](README.md)
 
 Visual Studio Code Extension
 =========================================

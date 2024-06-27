@@ -1,4 +1,4 @@
-[↑ README](readme.md)
+[↑ README](README.md)
 
 Markdown And KB Documentation
 =============================================
