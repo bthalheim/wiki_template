@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+
+		"svn.ignoreMissingSvnWarning": true,
+
+		"editor.tabCompletion": "on",
+			
+		"[markdown]": {
+			"editor.wordWrap": "on",
+			"editor.quickSuggestions": {
+				"comments": "on",
+				"strings": "on",
+				"other": "on"
+			}
+		},
+		
+		"markdown.styles": [
+			".vscode/style.css"
+		]
+
+	}
+}
